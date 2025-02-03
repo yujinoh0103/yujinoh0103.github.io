@@ -1,5 +1,11 @@
-baseurl: "/zolan" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+title: "기록"
+description: "개발을합니다다"
+url: "https://yujinoh0103.github.io"  # 본인 GitHub Pages URL
+author: "yujin"
+email: "yujin0103@sookmyung.ac.kr"
 
 
 # Build settings
