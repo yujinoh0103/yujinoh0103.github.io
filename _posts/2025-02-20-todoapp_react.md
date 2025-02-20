@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[스나이퍼팩토리] 한컴AI아카데미 3주차 - JS 실습_todo app react로 변환하기기"
+title: "[스나이퍼팩토리] 한컴AI아카데미 3주차 - JS 실습_todo app react로 변환하기"
 date: 2025-02-20
 categories: [한컴ai]
 author: "yujinoh0103"
